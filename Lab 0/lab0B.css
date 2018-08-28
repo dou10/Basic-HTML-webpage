@@ -1,0 +1,70 @@
+body {
+	background-color: #000080;
+	padding: 10px;
+}
+
+.plate{
+	background-color: white;
+	height: 1000px;
+	padding: 10px;
+
+}
+.header{
+	padding: 10px;
+	font-size: 10px;
+	text-align: right;
+	background-color: green;
+	border: 1px solid black;
+
+}
+
+.friends{
+	float: left;
+	width: 20%;
+	padding: 10px;
+	background-color: red;
+	margin-top: 30px;
+	margin-left: -10px;
+	border: 1px solid black;
+	color: white;
+	text-align: left;
+}
+
+.entry{
+	float: right;
+	width: 72%;
+	background-color: #DDA0DD;
+	margin-top: 30px;
+	margin-left: 5px;
+	margin-bottom: 10px;
+
+	border: 1px solid black;
+	text-align: justify;
+	padding: 10px;
+}
+
+ul{
+	list-style: none;
+	padding-left: 0;
+}
+
+
+img{
+	
+	float: right;
+	margin right: 10px;
+	margin-left: 10px;
+}
+
+a{
+	color: white;
+}
+
+a:link{
+	text-decoration: none;
+	color:white;
+}
+
+a:hover{
+	color: red;
+}
